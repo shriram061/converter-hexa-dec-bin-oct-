@@ -64,8 +64,7 @@ hr{
 {
     text-align: center;
     padding: 10px;
-    border-left:    300px solid blue;
-    border-right:  300px solid blue;
+    background-color: brown;
 }
 a:visited,a:link{
  color: blue;
@@ -86,37 +85,17 @@ a:hover
 }
 .con1
 {
-    border-left:    300px solid rgb(255, 115, 1);
-    border-right:  300px solid rgb(255, 115, 1); 
+    background-color: rgb(252, 151, 0);
 }
 .con2
 {
-    border-left:    300px solid yellow;
-    border-right:  300px solid yellow;
+    background-color: yellow;
 }
 .con3
 {
-    border-left:    300px solid rgb(69, 236, 69);
-    border-right:  300px solid rgb(69, 236, 69);
-}
-.con4
-{
-    border-left:    300px solid pink ;
-    border-right:  300px solid pink  ;
-}
-#binary-1
-{
-    background-color: rgb(252, 151, 0);
-}
-#decimal-1
-{
-    background-color: yellow;
-}
-#Hexadecimal-1
-{
     background-color: rgb(69, 236, 69);
 }
-#octal-1
+.con4
 {
     background-color: pink;
 }

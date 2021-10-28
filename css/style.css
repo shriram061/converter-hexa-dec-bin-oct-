@@ -37,6 +37,8 @@ hr{
     text-align: center;
     padding: 10px;
     
+  
+    
 }
 #d{
     background-color: yellow;
@@ -62,6 +64,8 @@ hr{
 {
     text-align: center;
     padding: 10px;
+    border-left:    300px solid blue;
+    border-right:  300px solid blue;
 }
 a:visited,a:link{
  color: blue;
@@ -79,4 +83,40 @@ a:hover
 {
     background-color: rgb(60, 224, 224);
     padding: 1px;
+}
+.con1
+{
+    border-left:    300px solid rgb(255, 115, 1);
+    border-right:  300px solid rgb(255, 115, 1); 
+}
+.con2
+{
+    border-left:    300px solid yellow;
+    border-right:  300px solid yellow;
+}
+.con3
+{
+    border-left:    300px solid rgb(69, 236, 69);
+    border-right:  300px solid rgb(69, 236, 69);
+}
+.con4
+{
+    border-left:    300px solid pink ;
+    border-right:  300px solid pink  ;
+}
+#binary-1
+{
+    background-color: rgb(252, 151, 0);
+}
+#decimal-1
+{
+    background-color: yellow;
+}
+#Hexadecimal-1
+{
+    background-color: rgb(69, 236, 69);
+}
+#octal-1
+{
+    background-color: pink;
 }
